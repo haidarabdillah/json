@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Taubium Mainnet",
+    "url": "https://taubscan.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/haidarabdillah/json/main/logo_taubium.svg"
+  },
+  {
+    "title": "Taubium Testnet",
+    "url": "https://testnet.taubscan.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/haidarabdillah/json/main/logo_taubium.svg",
+    "isActive": true
+  }
+]
